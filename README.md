@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🚀 Awesome Frontend Project
 
-<!--
-**CherryMT/CherryMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern frontend project built with React and modern UI practices.
 
-Here are some ideas to get you started:
+![preview](./docs/preview.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Features
+
+- Responsive UI
+- Modern component architecture
+- API integration
+- Clean code structure
+- Scalable design
+
+## 🛠 Tech Stack
+
+- React
+- Vite
+- TailwindCSS
+- Axios
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourname/project-name
+cd project-name
+npm install
+npm run dev
