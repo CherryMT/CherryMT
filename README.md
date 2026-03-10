@@ -2,7 +2,7 @@
 
 A modern frontend project built with React and modern UI practices.
 
-![preview](./docs/preview.png)
+
 
 ## ✨ Features
 
@@ -22,7 +22,7 @@ A modern frontend project built with React and modern UI practices.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourname/project-name
+git clone https://github.com/cherryMT/project-name
 cd project-name
 npm install
 npm run dev
