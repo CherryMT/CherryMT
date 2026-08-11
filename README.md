@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Minh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20Building%20Scalable%20Web%20Experiences&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=700&lines=Senior+Front-End+Developer+%F0%9F%8E%A8;React+%7C+TypeScript+%7C+TailwindCSS+Enthusiast;Building+beautiful+%26+performant+UIs;Passionate+about+Clean+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=700&lines=Front-End+Intern+%F0%9F%8E%A8;React+%7C+TypeScript+%7C+TailwindCSS;Building+beautiful+%26+performant+UIs;Passionate+about+Clean+Code+%26+UI%2FUX)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,18 +10,18 @@
 
 ## 🚀 About Me
 
-- 💻 **Front-End Developer** passionate about crafting clean, responsive, and high-performance UIs
-- ⚡ Focus on **performance optimization**, **scalable architecture**, and **developer experience**
-- 🎯 Deep interest in the **React ecosystem**, modern web technologies & AI-integrated applications
-- 🌱 Currently working on **full-stack projects** with Spring Boot & React
-- 🔭 Always exploring new tools and patterns to elevate user experience
+- 💻 **Front-End Intern** passionate about crafting clean, responsive, and high-performance UIs
+- ⚡ Focus on **clean code**, pixel-perfect UI, and great user experience
+- 🎯 Interested in the **React ecosystem**, modern web technologies & AI-integrated applications
+- 🌱 Currently learning **Next.js**, SSR/SSG patterns & full-stack web development
+- 🔭 Always exploring new tools and design patterns to grow as a developer
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,redux,html,css,java,spring,postgresql,docker,git,figma,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,redux,html,css,nodejs,docker,git,figma" />
 </p>
 
 <details>
@@ -33,12 +33,8 @@
 | **Frontend** | React 19, TypeScript, Vite, TailwindCSS v4, Redux Toolkit |
 | **UI / Animation** | Framer Motion, GSAP, Radix UI, Lucide Icons, Phosphor Icons |
 | **Data & Charts** | Recharts, React Flow (XY Flow), PapaParse, XLSX |
-| **Backend** | Spring Boot 3.5, Java 21, Spring Security, Spring AI |
-| **Database** | PostgreSQL (pgvector), Microsoft SQL Server |
-| **Auth** | JWT, OAuth2 (Google), Spring Security |
-| **AI Integration** | Spring AI (OpenAI), pgvector (RAG), MCP Client |
-| **DevOps** | Docker, Docker Compose |
-| **API Docs** | SpringDoc OpenAPI (Swagger UI) |
+| **Routing & State** | React Router v7, Redux Toolkit, Axios |
+| **Tooling** | Git, Figma, ESLint, Vite |
 
 </details>
 
@@ -48,7 +44,7 @@
 
 ### 🗺️ InteliPath — AI-Powered Career Roadmap Platform
 
-> 🌐 **Live:** [https://intelipath.online](https://intelipath.online)
+
 
 **InteliPath** là nền tảng hướng nghiệp thông minh giúp sinh viên xây dựng **lộ trình học tập và sự nghiệp cá nhân hóa** dựa trên AI. Hệ thống kết nối ba vai trò: **Mentor**, **Counselor (tư vấn viên)** và **Student**, tạo ra hệ sinh thái hỗ trợ toàn diện từ định hướng nghề nghiệp đến theo dõi tiến trình thực tế.
 
@@ -57,20 +53,13 @@
 Tôi phụ trách phát triển toàn bộ **giao diện người dùng** từ đầu, bao gồm thiết kế UI, xây dựng component library và tích hợp API.
 
 **Những gì tôi đã làm:**
-- Xây dựng **Welcome/Landing Page** với animation phức tạp dùng GSAP & Framer Motion
-- Phát triển **Student Dashboard** — hiển thị roadmap học tập, tiến trình, thông tin thị trường việc làm
-- Xây dựng **AI Mentor Chat Interface** — real-time conversation UI tích hợp AI
-- Phát triển **Roadmap Visualization** dùng **React Flow (XY Flow)** + **Dagre** để render đồ thị lộ trình tương tác
-- Xây dựng **Mentor Portfolio Page** và **Public Portfolio** dạng profile card chia sẻ công khai
-- Thiết kế **Profile Settings** cho cả Student, Mentor và Counselor
-- Implement hệ thống **Authentication** — Login, Register, Forgot Password, Reset Password, OAuth2 (Google)
-- Xây dựng **Admin Dashboard** quản trị hệ thống
-- Xây dựng **Counselor Dashboard** — quản lý sinh viên, phản hồi tư vấn
-- Xây dựng **Market Pulse Page** — phân tích xu hướng thị trường việc làm
-- Cài đặt **Redux Toolkit** cho global state management
-- Tích hợp **Axios** với interceptor để xử lý auth token và error handling
-- Implement **React Router v7** với route guards theo role (Student/Mentor/Counselor/Admin)
-- Thiết kế **Responsive UI** toàn bộ ứng dụng với TailwindCSS v4
+
+- 🎨 **UI & Pages** — Xây dựng toàn bộ giao diện: Landing Page (GSAP & Framer Motion animations), Dashboards cho Student / Mentor / Counselor / Admin, Market Pulse Page, Portfolio pages (public & private)
+- 🗺️ **Roadmap Visualization** — Render lộ trình học tập dạng đồ thị tương tác với **React Flow (XY Flow)** + **Dagre** layout engine
+- 🤖 **AI Chat Interface** — Xây dựng giao diện trò chuyện real-time tích hợp AI Mentor
+- 🔐 **Authentication** — Implement đầy đủ: Login, Register, Forgot/Reset Password, **Google OAuth2**, JWT + role-based route guards (React Router v7)
+- ⚙️ **State & API** — Cài đặt **Redux Toolkit** cho global state, tích hợp **Axios** interceptor xử lý auth token & error handling
+- 📱 **Responsive Design** — Thiết kế toàn bộ UI responsive với **TailwindCSS v4**
 
 #### 🛠️ Tech Stack (Frontend)
 
@@ -113,38 +102,7 @@ Tôi phụ trách phát triển toàn bộ **giao diện người dùng** từ �
 
 🔗 **Website:** [https://intelipath.online](https://intelipath.online)
 
----
 
-### 🐾 Smart Pet Feeder IoT System
-
-> Hệ thống IoT tự động cho thú cưng ăn theo lịch hẹn giờ và phát hiện cảm biến
-
-**Tech Used:** Arduino · Ultrasonic Sensor · RTC Module · Web Dashboard
-
-🔗 [View Repo](https://github.com/CherryMT/CherryMT)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CherryMT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryMT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CherryMT&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CherryMT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
 
 ## 📫 Contact Me
 
@@ -152,11 +110,8 @@ Tôi phụ trách phát triển toàn bộ **giao diện người dùng** từ �
   <a href="https://intelipath.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:phamnguyenminhtri3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
