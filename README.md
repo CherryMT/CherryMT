@@ -110,9 +110,9 @@ Tôi phụ trách phát triển toàn bộ **giao diện người dùng** từ �
   <a href="https://intelipath.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="mailto:phamnguyenminhtri3@gmail.com">
+ <a href="mailto:phamnguyenminhtri3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+</a>
 </p>
 
 <div align="center">
