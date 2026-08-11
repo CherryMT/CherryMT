@@ -44,22 +44,22 @@
 
 ### 🗺️ InteliPath — AI-Powered Career Roadmap Platform
 
+> 🌐 **Live:** [https://intelipath.online](https://intelipath.online)
 
-
-**InteliPath** là nền tảng hướng nghiệp thông minh giúp sinh viên xây dựng **lộ trình học tập và sự nghiệp cá nhân hóa** dựa trên AI. Hệ thống kết nối ba vai trò: **Mentor**, **Counselor (tư vấn viên)** và **Student**, tạo ra hệ sinh thái hỗ trợ toàn diện từ định hướng nghề nghiệp đến theo dõi tiến trình thực tế.
+**InteliPath** is an intelligent career guidance platform that helps students build **personalized learning and career roadmaps** powered by AI. The system connects three roles — **Mentor**, **Counselor**, and **Student** — creating a comprehensive ecosystem that supports career orientation and tracks real learning progress.
 
 #### 🧑‍💻 My Role — Front-End Developer
 
-Tôi phụ trách phát triển toàn bộ **giao diện người dùng** từ đầu, bao gồm thiết kế UI, xây dựng component library và tích hợp API.
+I was responsible for building the entire **user interface** from scratch, including UI design, component development, and API integration.
 
-**Những gì tôi đã làm:**
+**What I did:**
 
-- 🎨 **UI & Pages** — Xây dựng toàn bộ giao diện: Landing Page (GSAP & Framer Motion animations), Dashboards cho Student / Mentor / Counselor / Admin, Market Pulse Page, Portfolio pages (public & private)
-- 🗺️ **Roadmap Visualization** — Render lộ trình học tập dạng đồ thị tương tác với **React Flow (XY Flow)** + **Dagre** layout engine
-- 🤖 **AI Chat Interface** — Xây dựng giao diện trò chuyện real-time tích hợp AI Mentor
-- 🔐 **Authentication** — Implement đầy đủ: Login, Register, Forgot/Reset Password, **Google OAuth2**, JWT + role-based route guards (React Router v7)
-- ⚙️ **State & API** — Cài đặt **Redux Toolkit** cho global state, tích hợp **Axios** interceptor xử lý auth token & error handling
-- 📱 **Responsive Design** — Thiết kế toàn bộ UI responsive với **TailwindCSS v4**
+- 🎨 **UI & Pages** — Built the full interface: Landing Page with complex animations (GSAP & Framer Motion), Dashboards for Student / Mentor / Counselor / Admin, Market Pulse Page, and Portfolio pages (public & private)
+- 🗺️ **Roadmap Visualization** — Rendered interactive learning roadmaps as node graphs using **React Flow (XY Flow)** + **Dagre** layout engine
+- 🤖 **AI Chat Interface** — Built a real-time conversation UI integrated with the AI Mentor
+- 🔐 **Authentication** — Implemented full auth flow: Login, Register, Forgot/Reset Password, **Google OAuth2**, JWT + role-based route guards (React Router v7)
+- ⚙️ **State & API** — Set up **Redux Toolkit** for global state management, integrated **Axios** interceptors for auth token handling & error management
+- 📱 **Responsive Design** — Designed the entire application to be fully responsive using **TailwindCSS v4**
 
 #### 🛠️ Tech Stack (Frontend)
 
@@ -74,7 +74,7 @@ Tôi phụ trách phát triển toàn bộ **giao diện người dùng** từ �
   <img src="https://img.shields.io/badge/React_Flow-FF0072?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
-#### 🛠️ Tech Stack (Backend — Cộng tác)
+#### 🛠️ Tech Stack (Backend — Collaboration)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -87,22 +87,22 @@ Tôi phụ trách phát triển toàn bộ **giao diện người dùng** từ �
 
 #### ✨ Key Features
 
-| Feature | Mô tả |
+| Feature | Description |
 |---|---|
-| 🤖 **AI Mentor Chat** | Chatbot AI hỗ trợ sinh viên định hướng nghề nghiệp theo thời gian thực |
-| 🗺️ **Interactive Roadmap** | Lộ trình học tập dạng đồ thị tương tác (DAG), tùy chỉnh theo từng sinh viên |
-| 📊 **Market Pulse** | Phân tích xu hướng thị trường việc làm IT theo thời gian thực |
-| 👤 **Multi-Role System** | 4 vai trò: Admin, Mentor, Counselor, Student — mỗi role có dashboard riêng |
-| 🔐 **Auth System** | Email/Password + Google OAuth2 + JWT + route guards theo role |
-| 📁 **Public Portfolio** | Mentor/Student có thể chia sẻ profile công khai |
-| 📬 **Feedback System** | Mentor và Counselor phản hồi tiến trình của sinh viên |
-| 📤 **Export Data** | Xuất dữ liệu ra Excel/CSV |
-| 📚 **RAG-based AI** | Spring AI + pgvector — AI trả lời dựa trên knowledge base cụ thể |
-| 🐳 **Docker Ready** | Containerized deployment với Docker Compose |
+| 🤖 **AI Mentor Chat** | AI chatbot that guides students in career planning in real time |
+| 🗺️ **Interactive Roadmap** | Personalized learning roadmap rendered as an interactive DAG graph |
+| 📊 **Market Pulse** | Real-time analysis of IT job market trends |
+| 👤 **Multi-Role System** | 4 roles: Admin, Mentor, Counselor, Student — each with a dedicated dashboard |
+| 🔐 **Auth System** | Email/Password + Google OAuth2 + JWT + role-based route guards |
+| 📁 **Public Portfolio** | Mentors and students can share their profile publicly |
+| 📬 **Feedback System** | Mentors and Counselors can give feedback on student progress |
+| 📤 **Export Data** | Export data to Excel/CSV |
+| 📚 **RAG-based AI** | Spring AI + pgvector — AI answers based on a specific knowledge base |
+| 🐳 **Docker Ready** | Containerized deployment with Docker Compose |
 
 🔗 **Website:** [https://intelipath.online](https://intelipath.online)
 
-
+---
 
 ## 📫 Contact Me
 
@@ -110,9 +110,9 @@ Tôi phụ trách phát triển toàn bộ **giao diện người dùng** từ �
   <a href="https://intelipath.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
- <a href="mailto:phamnguyenminhtri3@gmail.com">
+  <a href="mailto:phamnguyenminhtri3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  </a>
 </p>
 
 <div align="center">
