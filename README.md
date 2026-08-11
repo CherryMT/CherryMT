@@ -13,7 +13,6 @@
 - 💻 **Front-End Intern** passionate about crafting clean, responsive, and high-performance UIs
 - ⚡ Focus on **clean code**, pixel-perfect UI, and great user experience
 - 🎯 Interested in the **React ecosystem**, modern web technologies & AI-integrated applications
-- 🌱 Currently learning **Next.js**, SSR/SSG patterns & full-stack web development
 - 🔭 Always exploring new tools and design patterns to grow as a developer
 
 ---
@@ -44,7 +43,6 @@
 
 ### 🗺️ InteliPath — AI-Powered Career Roadmap Platform
 
-> 🌐 **Live:** [https://intelipath.online](https://intelipath.online)
 
 **InteliPath** is an intelligent career guidance platform that helps students build **personalized learning and career roadmaps** powered by AI. The system connects three roles — **Mentor**, **Counselor**, and **Student** — creating a comprehensive ecosystem that supports career orientation and tracks real learning progress.
 
@@ -110,9 +108,9 @@ I was responsible for building the entire **user interface** from scratch, inclu
   <a href="https://intelipath.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="mailto:phamnguyenminhtri3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=phamnguyenminhtri3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <div align="center">
