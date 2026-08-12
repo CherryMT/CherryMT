@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Tri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20Building%20Scalable%20Web%20Experiences&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Minh%20Tri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20Intern%20%&descAlignY=58&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=700&lines=Front-End+Intern+%F0%9F%8E%A8;React+%7C+TypeScript+%7C+TailwindCSS;Building+beautiful+%26+performant+UIs;Passionate+about+Clean+Code+%26+UI%2FUX)](https://git.io/typing-svg)
 
@@ -9,6 +9,7 @@
 ---
 
 ## 🚀 About Me
+I'm a third-year Software Engineering student passionate about Front-End Development. I enjoy creating beautiful, responsive, and user-friendly web applications while continuously improving my skills in modern web technologies. I am eager to learn, gain practical experience, and contribute to real-world projects.
 
 - 💻 **Front-End Intern** passionate about crafting clean, responsive, and high-performance UIs
 - ⚡ Focus on **clean code**, pixel-perfect UI, and great user experience
@@ -52,9 +53,8 @@ I was responsible for building the entire **user interface** from scratch, inclu
 
 **What I did:**
 
-- 🎨 **UI & Pages** — Built the full interface: Landing Page with complex animations (GSAP & Framer Motion), Dashboards for Student / Mentor / Counselor / Admin, Market Pulse Page, and Portfolio pages (public & private)
-- 🗺️ **Roadmap Visualization** — Rendered interactive learning roadmaps as node graphs using **React Flow (XY Flow)** + **Dagre** layout engine
-- 🤖 **AI Chat Interface** — Built a real-time conversation UI integrated with the AI Mentor
+- 🎨 **Onboarding & Landing Page** — Spearheaded the development of the user onboarding flow and landing page, implementing complex and engaging UI animations using GSAP and Framer Motion
+- 👥 **Counselor Dashboard** — Designed and built the Counselor Dashboard, providing a comprehensive interface for counselors to manage student profiles, monitor progress, and submit feedback
 - 🔐 **Authentication** — Implemented full auth flow: Login, Register, Forgot/Reset Password, **Google OAuth2**, JWT + role-based route guards (React Router v7)
 - ⚙️ **State & API** — Set up **Redux Toolkit** for global state management, integrated **Axios** interceptors for auth token handling & error management
 - 📱 **Responsive Design** — Designed the entire application to be fully responsive using **TailwindCSS v4**
